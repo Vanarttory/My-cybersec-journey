@@ -1,0 +1,23 @@
+FREE CCNA FROM NETWORK CHUCK
+
+What is a Switch?
+A switch is a networking device that connects computers to each other.It allows devices to communicate and share data. Switches come in various sizes 
+
+How Switches Work
+Switches use Ethernet cables to connect devices.They transmit electrical signals through these cables.
+Unlike hubs, switches are intelligent and can direct traffic efficiently.
+
+Hubs vs. Switches
+Hubs are basic devices that broadcast data to all connected devices.Switches intelligently send data only to the intended recipient.
+This reduces network congestion and improves security.
+
+Understanding Network Addresses
+ Layer 2 addresses (MAC addresses) are used by switches to identify devices.
+ Layer 3 addresses (IP addresses) are used for routing data across networks.
+ Switches operate at Layer 2 and do not understand Layer 3 addresses.
+
+Whst is the main difference between TCP/IP and OSI models?
+ Basically, the OSI(Open Systems Interconnect) model has the exact same layers like the TCP/IP(Transmission Control Protocol/Internet Protocol),
+the only difference being that the OSI has 7 layers namely:
+The Physical layer, the data link layer,the networking layer,the transport layer, the session layer, the presenation and lastly the apllication layer.
+Whereas the TCP/IP model has 4 layers;  Physical, Network, Transport and Application layers.
